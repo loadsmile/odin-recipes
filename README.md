@@ -2,7 +2,7 @@
 
 **Basic Recipe Website:**
 
-This project is a basic recipe website built using HTML. It serves as a platform for practicing and showcasing your HTML skills while creating a collection of your favorite recipes.
+This project is a basic recipe website built using HTML. It serves as a platform for practicing and showcasing my HTML skills while creating a collection of my favorite recipes.
 
 **Project Overview:**
 
